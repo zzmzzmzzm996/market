@@ -1,0 +1,11 @@
+cn/bugstack/trigger/api/dto/ActivityDrawRequestDTO.class
+cn/bugstack/trigger/api/dto/RaffleAwardListReponseDTO.class
+cn/bugstack/trigger/api/dto/RaffleAwardListReponseDTO$RaffleAwardListReponseDTOBuilder.class
+cn/bugstack/trigger/api/dto/RaffleAwardListRequestDTO.class
+cn/bugstack/trigger/api/IRaffleStrategyService.class
+cn/bugstack/trigger/api/dto/ActivityDrawResponseDTO.class
+cn/bugstack/trigger/api/dto/RaffleReponseDTO.class
+cn/bugstack/trigger/api/dto/RaffleRequestDTO.class
+cn/bugstack/trigger/api/dto/RaffleReponseDTO$RaffleReponseDTOBuilder.class
+cn/bugstack/trigger/api/dto/ActivityDrawResponseDTO$ActivityDrawResponseDTOBuilder.class
+cn/bugstack/trigger/api/IRaffleActivityService.class
